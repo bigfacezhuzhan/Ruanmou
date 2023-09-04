@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2e7a73e2-6a4e-4bd5-aae7-1646bd47b3b3" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="net.tcp://localhost:6066/SearchService/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="6d54cb89-a3fa-4898-a102-1e607e55b69c" SourceId="1" SourceUrl="net.tcp://localhost:6066/SearchService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="6ec6eb89-193d-49a1-98b2-dcce25cd28e6" SourceId="1" SourceUrl="net.tcp://localhost:6066/SearchService/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="6563cab3-bda0-47df-8224-6911d123f73c" SourceId="1" SourceUrl="net.tcp://localhost:6066/SearchService/mex" />
+    <MetadataFile FileName="Ruanmou.WCF.Model.xsd" MetadataType="Schema" ID="42897025-aac0-4851-a99c-282c2ea29e6e" SourceId="1" SourceUrl="net.tcp://localhost:6066/SearchService/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

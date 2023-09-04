@@ -1,0 +1,17 @@
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\bin\Debug\net4.7.2\ConsoleApp1.exe.config
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\bin\Debug\net4.7.2\ConsoleApp1.exe
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\bin\Debug\net4.7.2\ConsoleApp1.pdb
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\bin\Debug\net4.7.2\Ruanmou.WCF.Interface.dll
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\bin\Debug\net4.7.2\Ruanmou.WCF.Model.dll
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\bin\Debug\net4.7.2\Ruanmou.WCF.Service.dll
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\bin\Debug\net4.7.2\Ruanmou.WCF.Service.pdb
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\bin\Debug\net4.7.2\Ruanmou.WCF.Interface.pdb
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\bin\Debug\net4.7.2\Ruanmou.WCF.Model.pdb
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\obj\Debug\net4.7.2\ConsoleApp1.csproj.AssemblyReference.cache
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\obj\Debug\net4.7.2\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\obj\Debug\net4.7.2\ConsoleApp1.AssemblyInfoInputs.cache
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\obj\Debug\net4.7.2\ConsoleApp1.AssemblyInfo.cs
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\obj\Debug\net4.7.2\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\obj\Debug\net4.7.2\ConsoleApp1.csproj.CopyComplete
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\obj\Debug\net4.7.2\ConsoleApp1.exe
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\obj\Debug\net4.7.2\ConsoleApp1.pdb

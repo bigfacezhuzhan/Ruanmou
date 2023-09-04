@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Ruanmou.WCF.Remote.BigZhanWcf" CodeBehind="BigZhanWcf.svc.cs" %>

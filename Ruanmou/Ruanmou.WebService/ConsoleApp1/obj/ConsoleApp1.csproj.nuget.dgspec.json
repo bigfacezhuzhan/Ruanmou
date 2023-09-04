@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\ConsoleApp1\\ConsoleApp1.csproj": {}
+  },
+  "projects": {
+    "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\ConsoleApp1\\ConsoleApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\杨锦\\.nuget\\packages\\",
+        "outputPath": "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\ConsoleApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\杨锦\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net4.7.2",
+            "projectReferences": {
+              "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Service\\Ruanmou.WCF.Service.csproj": {
+                "projectPath": "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Service\\Ruanmou.WCF.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net4.7.2",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Interface\\Ruanmou.WCF.Interface.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Interface\\Ruanmou.WCF.Interface.csproj",
+        "projectName": "Ruanmou.WCF.Interface",
+        "projectPath": "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Interface\\Ruanmou.WCF.Interface.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Model\\Ruanmou.WCF.Model.csproj": {
+                "projectPath": "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Model\\Ruanmou.WCF.Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Model\\Ruanmou.WCF.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Model\\Ruanmou.WCF.Model.csproj",
+        "projectName": "Ruanmou.WCF.Model",
+        "projectPath": "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Model\\Ruanmou.WCF.Model.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Service\\Ruanmou.WCF.Service.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Service\\Ruanmou.WCF.Service.csproj",
+        "projectName": "Ruanmou.WCF.Service",
+        "projectPath": "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Service\\Ruanmou.WCF.Service.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Interface\\Ruanmou.WCF.Interface.csproj": {
+                "projectPath": "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Interface\\Ruanmou.WCF.Interface.csproj"
+              },
+              "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Model\\Ruanmou.WCF.Model.csproj": {
+                "projectPath": "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Model\\Ruanmou.WCF.Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\obj\Debug\net4.5\ConsoleApp1.csproj.AssemblyReference.cache
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\obj\Debug\net4.5\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\obj\Debug\net4.5\ConsoleApp1.AssemblyInfoInputs.cache
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\obj\Debug\net4.5\ConsoleApp1.AssemblyInfo.cs
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\ConsoleApp1\obj\Debug\net4.5\ConsoleApp1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Model\bin\Debug\Ruanmou.WCF.Model.dll
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Model\bin\Debug\Ruanmou.WCF.Model.pdb
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Model\obj\Debug\Ruanmou.WCF.Model.csproj.AssemblyReference.cache
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Model\obj\Debug\Ruanmou.WCF.Model.csproj.CoreCompileInputs.cache
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Model\obj\Debug\Ruanmou.WCF.Model.dll
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Model\obj\Debug\Ruanmou.WCF.Model.pdb

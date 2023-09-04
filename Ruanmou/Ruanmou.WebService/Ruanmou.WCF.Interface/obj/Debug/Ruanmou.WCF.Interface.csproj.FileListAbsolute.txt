@@ -1,0 +1,9 @@
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\bin\Debug\Ruanmou.WCF.Interface.dll
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\bin\Debug\Ruanmou.WCF.Interface.pdb
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\bin\Debug\Ruanmou.WCF.Model.dll
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\bin\Debug\Ruanmou.WCF.Model.pdb
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\obj\Debug\Ruanmou.WCF.Interface.csproj.AssemblyReference.cache
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\obj\Debug\Ruanmou.WCF.Interface.csproj.CoreCompileInputs.cache
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\obj\Debug\Ruanmou.WCF.Interface.csproj.CopyComplete
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\obj\Debug\Ruanmou.WCF.Interface.dll
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\obj\Debug\Ruanmou.WCF.Interface.pdb

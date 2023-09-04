@@ -1,0 +1,14 @@
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\DB\bin\Debug\DB.dll.config
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\DB\bin\Debug\DB.dll
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\DB\bin\Debug\DB.pdb
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\DB\bin\Debug\EntityFramework.dll
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\DB\bin\Debug\EntityFramework.SqlServer.dll
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\DB\bin\Debug\EntityFramework.xml
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\DB\bin\Debug\EntityFramework.SqlServer.xml
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\DB\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\DB\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\DB\obj\Debug\DB.csproj.CopyComplete
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\DB\obj\Debug\DB.dll
+D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\DB\obj\Debug\DB.pdb

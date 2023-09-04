@@ -1,0 +1,150 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Ruanmou.WCF.Interface/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Ruanmou.WCF.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ruanmou.WCF.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ruanmou.WCF.Interface.dll": {}
+        }
+      },
+      "Ruanmou.WCF.Model/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Ruanmou.WCF.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ruanmou.WCF.Model.dll": {}
+        }
+      },
+      "Ruanmou.WCF.Service/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Ruanmou.WCF.Interface": "1.0.0",
+          "Ruanmou.WCF.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ruanmou.WCF.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ruanmou.WCF.Service.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win7-x86": {
+      "Ruanmou.WCF.Interface/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Ruanmou.WCF.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ruanmou.WCF.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ruanmou.WCF.Interface.dll": {}
+        }
+      },
+      "Ruanmou.WCF.Model/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Ruanmou.WCF.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ruanmou.WCF.Model.dll": {}
+        }
+      },
+      "Ruanmou.WCF.Service/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Ruanmou.WCF.Interface": "1.0.0",
+          "Ruanmou.WCF.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ruanmou.WCF.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ruanmou.WCF.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ruanmou.WCF.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Ruanmou.WCF.Interface/Ruanmou.WCF.Interface.csproj",
+      "msbuildProject": "../Ruanmou.WCF.Interface/Ruanmou.WCF.Interface.csproj"
+    },
+    "Ruanmou.WCF.Model/1.0.0": {
+      "type": "project",
+      "path": "../Ruanmou.WCF.Model/Ruanmou.WCF.Model.csproj",
+      "msbuildProject": "../Ruanmou.WCF.Model/Ruanmou.WCF.Model.csproj"
+    },
+    "Ruanmou.WCF.Service/1.0.0": {
+      "type": "project",
+      "path": "../Ruanmou.WCF.Service/Ruanmou.WCF.Service.csproj",
+      "msbuildProject": "../Ruanmou.WCF.Service/Ruanmou.WCF.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Ruanmou.WCF.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\杨锦\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\杨锦\\.nuget\\packages\\",
+      "outputPath": "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\杨锦\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net4.7.2",
+          "projectReferences": {
+            "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Service\\Ruanmou.WCF.Service.csproj": {
+              "projectPath": "D:\\朱展\\Work\\SOA\\Ruanmou\\Ruanmou.WebService\\Ruanmou.WCF.Service\\Ruanmou.WCF.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net4.7.2",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
