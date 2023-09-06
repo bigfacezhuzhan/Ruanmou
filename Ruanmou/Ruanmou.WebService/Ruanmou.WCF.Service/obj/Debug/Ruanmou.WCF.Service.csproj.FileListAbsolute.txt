@@ -9,3 +9,14 @@ D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Service\obj\Debug\Ruan
 D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Service\obj\Debug\Ruanmou.WCF.Service.csproj.CopyComplete
 D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Service\obj\Debug\Ruanmou.WCF.Service.dll
 D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Service\obj\Debug\Ruanmou.WCF.Service.pdb
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Service\bin\Debug\Ruanmou.WCF.Service.dll
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Service\bin\Debug\Ruanmou.WCF.Service.pdb
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Service\bin\Debug\Ruanmou.WCF.Interface.dll
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Service\bin\Debug\Ruanmou.WCF.Model.dll
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Service\bin\Debug\Ruanmou.WCF.Interface.pdb
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Service\bin\Debug\Ruanmou.WCF.Model.pdb
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Service\obj\Debug\Ruanmou.WCF.Service.csproj.AssemblyReference.cache
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Service\obj\Debug\Ruanmou.WCF.Service.csproj.CoreCompileInputs.cache
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Service\obj\Debug\Ruanmou.WCF.Service.csproj.CopyComplete
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Service\obj\Debug\Ruanmou.WCF.Service.dll
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Service\obj\Debug\Ruanmou.WCF.Service.pdb

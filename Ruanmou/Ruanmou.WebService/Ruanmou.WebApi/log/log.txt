@@ -1,0 +1,13 @@
+2023-09-07 00:27:23,289 [12] INFO  Ruanmou.WebApi.Models.Log4.Log4Factory - 初始化日志类 Logger
+2023-09-07 00:31:36,567 [27] INFO  Ruanmou.WebApi.Models.Log4.Log4Factory - 初始化日志类 Logger
+2023-09-07 00:32:16,833 [12] INFO  Ruanmou.WebApi.Models.Log4.Log4Factory - 初始化日志类 Logger
+2023-09-07 00:33:31,811 [12] INFO  Ruanmou.WebApi.Models.Log4.Log4Factory - 初始化日志类 Logger
+2023-09-07 00:35:17,517 [31] INFO  Ruanmou.WebApi.Models.Log4.Log4Factory - 初始化日志类 Logger
+2023-09-07 00:37:28,751 [27] INFO  Ruanmou.WebApi.Models.Log4.Log4Factory - 初始化日志类 Logger
+2023-09-07 00:38:42,175 [7] INFO  Ruanmou.WebApi.Models.Log4.Log4Factory - 初始化日志类 Logger
+2023-09-07 00:39:32,140 [7] INFO  Ruanmou.WebApi.Models.Log4.Log4Factory - 初始化日志类 Logger
+2023-09-07 00:43:09,919 [5] INFO  Ruanmou.WebApi.Models.Log4.Log4Factory - 初始化日志类 Logger
+2023-09-07 00:45:20,226 [7] INFO  Ruanmou.WebApi.Models.Log4.Log4Factory - 初始化日志类 Logger
+2023-09-07 00:47:58,481 [7] INFO  Ruanmou.WebApi.Models.Log4.Log4Factory - 初始化日志类 Logger
+2023-09-07 00:48:26,796 [9] INFO  Ruanmou.WebApi.Models.Log4.Log4Factory - 初始化日志类 Logger
+2023-09-07 00:49:33,778 [6] INFO  Ruanmou.WebApi.Models.Log4.Log4Factory - 初始化日志类 Logger

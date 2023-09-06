@@ -4,3 +4,8 @@ D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Model\obj\Debug\Ruanmo
 D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Model\obj\Debug\Ruanmou.WCF.Model.csproj.CoreCompileInputs.cache
 D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Model\obj\Debug\Ruanmou.WCF.Model.dll
 D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Model\obj\Debug\Ruanmou.WCF.Model.pdb
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Model\bin\Debug\Ruanmou.WCF.Model.dll
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Model\bin\Debug\Ruanmou.WCF.Model.pdb
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Model\obj\Debug\Ruanmou.WCF.Model.csproj.CoreCompileInputs.cache
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Model\obj\Debug\Ruanmou.WCF.Model.dll
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Model\obj\Debug\Ruanmou.WCF.Model.pdb

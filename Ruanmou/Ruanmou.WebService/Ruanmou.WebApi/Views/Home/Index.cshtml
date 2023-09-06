@@ -1,0 +1,125 @@
+﻿<div class="jumbotron">
+    <h1 style="text-align:center;">WebApi前后端交互测试</h1>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <button id="GetUserById" class="btn btn-default" type="button">GetUserById</button>
+        <button id="RegisterNoKey" class="btn btn-default" type="button">RegisterNoKey</button>
+        <input type="text" id="account" name="account" placeholder="账号" class="text-primary" />
+        <input type="password" id="password" name="password" placeholder="密码" class="text-danger" />
+        <div class="form-inline">
+            <button type="button" class="btn btn-danger" id="btn_login">登录</button>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <button id="GetUserByIdName" class="btn btn-default" type="button">GetUserByIdName</button>
+        <button id="RegisterUser" class="btn btn-default" type="button">RegisterUser</button>
+        <button id="RegisterUserJson" class="btn btn-default" type="button">RegisterUserJson</button>
+        <button id="RegisterUserJData" class="btn btn-default" type="button">RegisterUserJData</button>
+    </div>
+    <div class="col-md-3">
+        <button id="GetUserByModel" class="btn btn-default" type="button">GetUserByModel</button>
+
+        <button id="RegisterUserJsonObject" class="btn btn-default" type="button">RegisterUserJsonObject</button>
+    </div>
+    <div class="col-md-3">
+        <button id="GetUserBySerializer" class="btn btn-default" type="button">GetUserBySerializer</button>
+    </div>
+</div>
+@section scripts{
+    
+    <script>
+        var sysuser = { id: 12, name: "王五" };
+        var users = {id:222,name:"赵六"};
+        var data = { users: users, info: "I'm jData" };
+        var ticket;
+        $(function () {
+
+            //GET
+            {
+
+                $("#GetUserById").on("click", function () {
+                    $.ajax({
+                        url: "/userapi/users/GetUserById",
+                        data: { id: 1 },
+                        beforeSend: function (xhr) {
+                            xhr.setRequestHeader("Authorization", "BasicAuth " + ticket);
+                        }
+                    });
+                })
+                $("#GetUserByIdName").on("click", function () {
+                    $.ajax({ url: "/userapi/users/GetUserByIdName", data: { id: 1, name: "kerwin" } });
+                })
+                $("#GetUserByModel").on("click", function () {
+                    $.ajax({ url: "/userapi/users/GetUserByModel", data: sysuser, dataType: "json", contentType: "application/json" });
+                })
+                $("#GetUserBySerializer").on("click", function () {
+                    $.ajax({ url: "/userapi/users/GetUserBySerializer", data: { user: JSON.stringify(sysuser) } });
+                })
+
+
+            }
+
+            //POST
+            {
+                $("#RegisterNoKey").on("click", function () {
+                    $.ajax({
+                        url: "/userapi/users/RegisterNoKey",
+                        type: "post",
+                        data: { "": 123 },
+                        success: function (rs) { alert(rs); }
+                    })
+                })
+
+                $("#RegisterUser").on("click", function () {
+                    $.ajax({
+                        url: "/userapi/users/RegisterUser",
+                        type: "post",
+                        data: users,
+                        success: function (rs) { alert(rs); }
+                    })
+                });
+                $("#RegisterUserJson").on("click", function () {
+                    $.ajax({
+                        url: "/userapi/users/RegisterUser",
+                        type: "post",
+                        data: JSON.stringify(users),
+                        contentType:"application/json",
+                        success: function (rs) { alert(rs); }
+                    })
+                });
+                
+                $("#RegisterUserJsonObject").on("click", function () {
+                    $.ajax({
+                        url: "/userapi/users/RegisterUserJsonObject",
+                        type: "post",
+                        data: JSON.stringify(data),
+                        contentType: "application/json",
+                        success: function (rs) { alert(rs); }
+                    })
+                });
+                $("#RegisterUserJData").on("click", function () {
+                    $.ajax({
+                        url: "/userapi/users/RegisterUserJData",
+                        data: data,
+                        method:"post"
+                    })
+                })
+            }
+            //登录
+            $("#btn_login").on("click", function () {
+
+                $.ajax({
+                    url: "/userapi/users/login",
+                    data: { account: $("#account").val(), password: $("#password").val() },
+                    success: function (res) {
+                        var obj = JSON.parse(res);
+                        if (obj.result) {
+                            ticket = obj.ticket;
+                        }
+                    }
+                })
+            })
+        })
+    </script>
+    }

@@ -7,3 +7,12 @@ D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\obj\Debug\Ru
 D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\obj\Debug\Ruanmou.WCF.Interface.csproj.CopyComplete
 D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\obj\Debug\Ruanmou.WCF.Interface.dll
 D:\朱展\Work\SOA\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\obj\Debug\Ruanmou.WCF.Interface.pdb
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\bin\Debug\Ruanmou.WCF.Interface.dll
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\bin\Debug\Ruanmou.WCF.Interface.pdb
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\bin\Debug\Ruanmou.WCF.Model.dll
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\bin\Debug\Ruanmou.WCF.Model.pdb
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\obj\Debug\Ruanmou.WCF.Interface.csproj.AssemblyReference.cache
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\obj\Debug\Ruanmou.WCF.Interface.csproj.CoreCompileInputs.cache
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\obj\Debug\Ruanmou.WCF.Interface.csproj.CopyComplete
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\obj\Debug\Ruanmou.WCF.Interface.dll
+E:\WorkSpace\C#\SOA\Ruanmou\Ruanmou\Ruanmou.WebService\Ruanmou.WCF.Interface\obj\Debug\Ruanmou.WCF.Interface.pdb
